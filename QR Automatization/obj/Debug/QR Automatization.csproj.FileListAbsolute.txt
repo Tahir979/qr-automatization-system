@@ -1,0 +1,47 @@
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\QR Automatization.exe.config
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\QR Automatization.exe
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\QR Automatization.pdb
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\AForge.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\AForge.Video.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\ExcelDataReader.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Auth.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Core.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\MetroFramework.Design.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\MetroFramework.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\zxing.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\zxing.presentation.dll
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\AForge.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\AForge.Video.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\ExcelDataReader.pdb
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\ExcelDataReader.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.pdb
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Auth.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Core.pdb
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Core.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Drive.v3.pdb
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\zxing.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\bin\Debug\zxing.presentation.xml
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR Automatization.csproj.AssemblyReference.cache
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR_Automatization.loadingscreen.resources
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR_Automatization.main.resources
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR_Automatization.Properties.Resources.resources
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR Automatization.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR Automatization.csproj.CoreCompileInputs.cache
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR Automatization.csproj.CopyComplete
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR Automatization.exe
+C:\Users\wasd0\Desktop\QR Automatization\QR Automatization\obj\Debug\QR Automatization.pdb
