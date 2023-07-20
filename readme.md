@@ -32,4 +32,3 @@
 ![scanningcode](/QR%20Automatization/screenshot/scanningcode.png)
 ![loadingexcel](/QR%20Automatization/screenshot/loadingexcel.png)
 ![driveupload](/QR%20Automatization/screenshot/driveupload.png)
-dfgsfdgfd
