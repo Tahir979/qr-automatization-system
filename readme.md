@@ -25,3 +25,10 @@
 | `ExcelDataReader.DataSet` | [![Nuget](https://img.shields.io/nuget/v/ExcelDataReader.DataSet.svg)](https://www.nuget.org/packages/ExcelDataReader.DataSet) |
 | `Microsoft.Office.Interop.Excel` | [![Nuget](https://img.shields.io/nuget/v/Microsoft.Office.Interop.Excel.svg)](https://www.nuget.org/packages/Microsoft.Office.Interop.Excel) |
 | `System.Runtime.Numerics` | [![Nuget](https://img.shields.io/nuget/v/System.Runtime.Numerics.svg)](https://www.nuget.org/packages/System.Runtime.Numerics) |
+
+## ScreenShot
+
+![main](/QR%20Automatization/screenshot/main.png)
+![scanningcode](/QR%20Automatization/screenshot/scanningcode.png)
+![loadingexcel](/QR%20Automatization/screenshot/loadingexcel.png)
+![driveupload](/QR%20Automatization/screenshot/driveupload.png)
