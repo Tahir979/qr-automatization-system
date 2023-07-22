@@ -1,6 +1,6 @@
 # QR Automatization System
 
-> This program has been prepared to contribute to a TUBITAK research (2247 - C, 118C299) at Mersin University where I've been for summer internship. Firstly, excel file needed to be edited is loaded to the system. Then, the sequence required for editing is scanned with QR code and the excel file will be saved locally or online.
+> This program has been prepared to contribute to a TUBITAK research (2247 - C, 118C299) at Mersin University where I've been for the summer internship. Firstly, the Excel file that need to edit is loaded to the system. Then, the sequence required for editing is scanned as a QR code and the Excel file will be saved locally or online.
 
 > For an ideal view, run at 1920 * 1080 resolution and 100% scale settings. The program works with [access database](https://www.microsoft.com/en-us/download/details.aspx?id=13255) and [.NET Framework 4.7.2+](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472), download these if necessary.
 
